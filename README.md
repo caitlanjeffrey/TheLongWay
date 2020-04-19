@@ -1,3 +1,4 @@
+![TheLongWay](client/public/picture-1.png)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
