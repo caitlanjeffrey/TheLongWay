@@ -9,11 +9,11 @@ It’s been five years since the cataclysm. You’ve been etching out a living i
 2.	You decided to visit Old Pete’s one last time to see what he has that might be useful for the long journey east.
 
 # Packages Used: 
-	*React
-	*Axios
-	*Cookie-Parser
-	*Express
-	*Mongoose
+	* React
+	* Axios
+	* Cookie-Parser
+	* Express
+	* Mongoose
 	
 # How to Run App:
 Login or sign-up to create a profile and save your progress if you decided to leave before the game is complete.
@@ -21,11 +21,11 @@ Select a player from the player board, then continue on through the multiple-cho
 Each selection will have either a negative, positive or neutral effect on the player.	
 
 # Team
-•	Adam Jeske
-•	Caitlan Jeffrey
-•	Kevin Adamski
-•	Liam Heckman
-•	Loren Kolstad
+	* Adam Jeske
+	* Caitlan Jeffrey
+	* Kevin Adamski
+	* Liam Heckman
+	* Loren Kolstad
 
 # Special Thanks
 	Thank to our Professor Marcelo Gachet and our TA’s (Austin, Leah, Hoff and Justin) for helping our team succeed with this project! I’d also like to thank my team members! This was project was the most fun and I had an excellent time creating such a fun project! Thank you.
