@@ -28,4 +28,4 @@ Each selection will have either a negative, positive or neutral effect on the pl
 	* Loren Kolstad
 
 # Special Thanks
-	Thank to our Professor Marcelo Gachet and our TA’s (Austin, Leah, Hoff and Justin) for helping our team succeed with this project! I’d also like to thank my team members! This was project was the most fun and I had an excellent time creating such a fun project! Thank you.
+Thank to our Professor Marcelo Gachet and our TA’s (Austin, Leah, Hoff and Justin) for helping our team succeed with this project! I’d also like to thank my team members! This was project was the most fun and I had an excellent time creating such a fun project! Thank you.
