@@ -9,12 +9,12 @@ It’s been five years since the cataclysm. You’ve been etching out a living i
 2.	You decided to visit Old Pete’s one last time to see what he has that might be useful for the long journey east.
 
 # Packages Used: 
-•	React
-•	Axios
-•	Cookie-Parser
-•	Express
-•	Mongoose
-
+	*React
+	*Axios
+	*Cookie-Parser
+	*Express
+	*Mongoose
+	
 # How to Run App:
 Login or sign-up to create a profile and save your progress if you decided to leave before the game is complete.
 Select a player from the player board, then continue on through the multiple-choice game.
